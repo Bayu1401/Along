@@ -15,23 +15,23 @@ from bs4 import BeautifulSoup
 import time,random,sys,json,codecs,threading,glob,urllib,urllib2
 
 cl = LINETHB.LINE()
-cl.login(token=
+cl.login(token="EnRfMfH55BVrkYnBqH56.jdiU6li3FfXFAOQG22kmDG.+9Pw2RTM6BIK+XjpAsJzaQcDRKm5hmTA1fYokE2HRXY="
 cl.loginResult()
 
 ki = LINETHB.LINE()
-ki.login(token=
+ki.login(token="EniysX9Ohwa5xcCXwUh0.5pE6NazAOUF9w5vXC6uyCa.n2Z6po1ztKy5jP47W3CrxusTrKW9s8ULKbOD+XA4f2c=")
 ki.loginResult()
 
 kk = LINETHB.LINE()
-kk.login(token=
+kk.login(token= "En4fWJjBGlESgAdgIGVa.lVGGVPi7vq/XVgIklkw4IG.PVGWasScPeXFDjti7Yfdp85pk2Ar7Np3TY/nuE0qS/w=")
 kk.loginResult()
 
 ks = LINETHB.LINE()
-ks.login(token=
+ks.login(token= "Ena22KoX1OTv9MP2SaJ3.JXugAKnFZMalCTN4wPkfyW.1/WXZsqx07F8cG0DgbwSoBGxVUAFykhVhOGRMZtGCD4=")
 ks.loginResult()
 
 kr = LINETHB.LINE()
-kr.login(token=
+kr.login(token= "EnKR562oViqKUPg0I41f.RJOdW/BYfRpBgJJN9dXWJW.q0xXi02/T/t/XT5dMqbCCJbzfI/wGcwYNiKlcNAp5Bo=")
 kr.loginResult()
 
 print "login success"
@@ -138,7 +138,7 @@ autocancel = {}
 autoinvite = []
 autoleaveroom = []
 
-admins = ["]
+admins = ["uae3a03c3e6f216b3db1a38e7f43c708f"]
 Rx4 = [""]
 Rx3 = [""]
 Rx2 = [""]
